@@ -1,14 +1,14 @@
 {
-      "name": "EtirafClubBot",
-      "description": "Azərbaycanca sıfırdan yığılmış etiraf botu",
+      "name": "İtirafbot",
+      "description": "itirafbotu",
       "keywords": [
          "telegram",
-         "etiraf",
+         "itiraf",
          "group",
-         "aykhan_s",
-         "RoBotlarimTg"
+         "Two",
+         "ermenistan"
       ],   
-   "repository": "https://github.com/aykhan026/EtirafBot-RoBotlarimTg",
+   "repository": "https://github.com/twodrk/itirafbot",
    "env": {
       "TOKEN": {
          "description": "Botunuzun tokenini bura yazın",
@@ -48,15 +48,15 @@
       },      
       "support": {
          "description": "Bura support qrupunuz/kanalınız varsa @ işarəsi olmadan yazın yoxdusa olduğu kimi buraxın",
-         "value": "RoBotlarimTg"
+         "value": "eGiarchive"
       },
       "startmesaj": {
          "description": "Bota start verilən zaman yazılan mesaj",
-         "value": "**Salam, Xoş Gəldin** __Heçkimə demədiyin etirafları mənə deyə bilərsən__ 🤭"
+         "value": "**Merhaba,Hoşgeldin** __Kimseye demediğin itirafını bana diye bilirsin__ 🤭"
       },
       "qrupstart": {
          "description": "Bot əgər hansısa qrupa qatılıbsa start verilərsə qrupda yazdığı mesaj",
-         "value": "✅ **Mən Aktivəm !** 💌 **Etiraf yazmaq üçün şəxsidən yazın**"
+         "value": "✅ **Ben aktifim !** 💌 **İtirafı yazmak için özelden yazın**"
       },
       "etirafmsg": {
          "description": "Etiraf edilən zaman botun verdiyi sual",
