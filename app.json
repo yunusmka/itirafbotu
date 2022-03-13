@@ -8,7 +8,7 @@
          "Two",
          "ermenistan"
       ],   
-   "repository": "https://github.com/twodrk/itirafbot",
+   "repository": "https://github.com/yunusmka/itirafbotu",
    "env": {
       "TOKEN": {
          "description": "Botunuzun tokenini bura yazın",
