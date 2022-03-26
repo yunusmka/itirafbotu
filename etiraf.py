@@ -49,9 +49,9 @@ async def start(event):
                       [
                        Button.inline("💭 itiraf yaz", data="itiraf")
                       ],
-                      [Button.url('📜 İtiraf Kanalı', f'https://t.me/flexitiraf')],
-                      [Button.url('📣 Support', f'https://t.me/nikeekip'),
-                       Button.url('👨🏻‍💻 Sahibim', f'https://t.me/b4f2f')]
+                      [Button.url('📜 İtiraf Kanalı', f'https://t.me/y10itiraff')],
+                      [Button.url('📣 Support', f'https://t.me/y10itiraf'),
+                       Button.url('👨🏻‍💻 Sahibim', f'https://t.me/mkaofc')]
                     ),
                     link_preview=False)
 
@@ -68,9 +68,9 @@ async def handler(event):
                       [
                        Button.inline("💭 İtiraf Yaz", data="itiraf")
                       ],
-                      [Button.url('📜 İtiraf Kanalı', f'https://t.me/flexitiraf')],
-                      [Button.url('📣 Support', f'https://t.me/nikeekip'),
-                       Button.url('👨🏻‍💻 Sahibim', f'https://t.me/b4f2f')]
+                      [Button.url('📜 İtiraf Kanalı', f'https://t.me/y10itiraff')],
+                      [Button.url('📣 Support', f'https://t.me/y10itiraf'),
+                       Button.url('👨🏻‍💻 Sahibim', f'https://t.me/mkaofc')]
                     ),
                     link_preview=False)
 
