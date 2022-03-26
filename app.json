@@ -54,15 +54,15 @@
          "description": "Bota start verilən zaman yazılan mesaj",
          "value": "**Merhaba,Hoşgeldin** __Kimseye demediğin itirafını bana diye bilirsin__ 🤭"
       },
-      "qrupstart": {
+      "grupstart": {
          "description": "Bot əgər hansısa qrupa qatılıbsa start verilərsə qrupda yazdığı mesaj",
          "value": "✅ **Ben aktifim !** 💌 **İtirafı yazmak için özelden yazın**"
       },
-      "etirafmsg": {
+      "itirafmsg": {
          "description": "Etiraf edilən zaman botun verdiyi sual",
          "value": "**Etirafını necə paylaşım ?** 🤔"
       }, 
-      "etirafyaz": {
+      "itirafyaz": {
          "description": "Etiraf etməy istəyən istifadəçiyə yazılan mesaj",
          "value": "**Buyur bir etiraf yaz Daha sonra mən onun açıq və ya anonim olacağını soruşacam** 😍"
       },
