@@ -26,7 +26,7 @@
          "description": "Etirafları təsdiqləməy üçün bir qrup yaradın. yaratdığınız botu həmin qrupa atıb admin edib qrup idini bura yazın",
          "value": "-717273671"
       },      
-      "ETIRAF_QRUP": {
+      "İTIRAF_QRUP": {
          "description": "Təsdiqlədiyiniz etiraf paylaşılacaq kanal/qrup idini yazın",
          "value": "-1727079853"
       },
@@ -40,11 +40,11 @@
       },
       "BOT_AD": {
          "description": "Botun usernamesini bura yazın @ işarəsi ilə",
-         "value": "@EtirafClubBot"
+         "value": "@y10itirafbot"
       },
       "sahib": {
          "description": "Bura öz usernamenizi yazın @ işarəsi olmadan",
-         "value": "aykhan_s"
+         "value": "mkaofc"
       },      
       "support": {
          "description": "Bura support qrupunuz/kanalınız varsa @ işarəsi olmadan yazın yoxdusa olduğu kimi buraxın",
