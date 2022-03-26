@@ -4,9 +4,9 @@
 <p align="center">
     Telegramda asanlıqla öz qrupunuz üçün etiraf botu yaradın
     <br>
-        <a href="https://t.me/EtirafClubBot">EtirafClubBot</a> |
-        <a href="https://t.me/RoBotlarimTg">Dəstək Kanalı</a> |
-        <a href="https://t.me/RoBotlarimSup">Dəstək Qrupu</a>
+        <a href="https://t.me/y10itirafbot">y10itirafbot</a> |
+        <a href="https://t.me/y10itiraff">Dəstək Kanalı</a> |
+        <a href="https://t.me/y10itiraf">Dəstək Qrupu</a>
     <br>
 </p>
 
